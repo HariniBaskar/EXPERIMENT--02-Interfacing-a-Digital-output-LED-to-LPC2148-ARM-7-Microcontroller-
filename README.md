@@ -141,13 +141,13 @@ int main()
 ## Output:
 
 ## LED ON
-![color pm](https://user-images.githubusercontent.com/93427253/192111459-305999ca-8283-407b-bd2f-00091a04153c.png)
+![COLOR](https://user-images.githubusercontent.com/93427253/192111950-b77add80-63e7-4563-b9ab-1ffcbfbdd53e.png)
 
 ## LED OFF
-![black](https://user-images.githubusercontent.com/93427253/192111466-e23aacc3-ff9a-495a-8657-427878555410.png)
+![BLACK ](https://user-images.githubusercontent.com/93427253/192111966-32b18ca5-7df3-4d7f-9d55-d46bf35a7229.png)
 
 ## CIRCUIT DIAGRAM
-![hari ](https://user-images.githubusercontent.com/93427253/192111471-790487ba-110a-4125-bfb5-0e78af88343c.png)
+![CIRCUIT](https://user-images.githubusercontent.com/93427253/192111977-57d264e7-4748-44fe-8c58-4354ac11facf.png)
 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed 
